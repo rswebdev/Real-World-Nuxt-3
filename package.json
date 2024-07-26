@@ -22,5 +22,6 @@
     "vue": "^3.3.8",
     "vue-markdown-render": "^2.1.1",
     "vue-router": "^4.2.5"
-  }
+  },
+  "packageManager": "yarn@4.3.1"
 }
